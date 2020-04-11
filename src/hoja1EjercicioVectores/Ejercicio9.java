@@ -17,7 +17,7 @@ public class Ejercicio9 {
 		palo = (int) Math.floor(Math.random()*vector2.length);
 		
 		System.out.println("La carta elegida es el " + mostrarNumero(vector1[carta]) + " de "+ mostrarPalo(vector2[palo]));
-	}	
+	}
 	
 	public static String mostrarPalo (char caracter) {
 		String cadena;
