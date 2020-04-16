@@ -2,10 +2,10 @@ package tema4Hoja1;
 
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class Ejercicio02 {
 	
 	
-public static Scanner reader = new Scanner(System.in);
+	public static Scanner reader = new Scanner(System.in);
 	
 	public static void main(String[] args)
 	{
